@@ -89,6 +89,7 @@ button:hover {
 }
 
 .active {
-  transform: translateY(5px);
+  transform: translateY(8px);
+  background-color: darkgray;
 }
 </style>
