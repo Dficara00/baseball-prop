@@ -74,7 +74,4 @@ h1 {
   justify-content: center;
   padding: 5px;
 }
-/* .mid {
-  padding-left: 5px;
-} */
 </style>

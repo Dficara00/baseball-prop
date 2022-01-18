@@ -89,7 +89,6 @@ button:hover {
 }
 
 .active {
-  transform: translateY(8px);
-  /* background-color: darkgray; take out before 1st GH */
+  transform: translateY(5px);
 }
 </style>
